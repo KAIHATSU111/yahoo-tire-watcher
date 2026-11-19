@@ -1,0 +1,19 @@
+# "skip" は初回の検索時点ですでに出品されている商品を除外。
+# "notify" は初回に取得したページ内の合致商品も通知。
+first_run = "skip"
+search_pages = 2
+max_details = 12
+
+[[watch]]
+size = "225/45R17"
+count = 4
+max_total_yen = 30000
+condition = "used"
+prefecture = "埼玉県"
+
+[[watch]]
+size = "205/55R16"
+count = 4
+max_total_yen = 24000
+condition = "used"
+prefecture = "埼玉県"
