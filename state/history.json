@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "initialized": false,
-  "skip_before": null,
+  "initialized": true,
+  "skip_before": "2026-11-26T16:49:54.562224+00:00",
   "sent": []
 }
